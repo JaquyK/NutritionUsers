@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "6c3ebb4d8d65ccf56aef041f6ecc7e252fe500a3"
+    "signature": "462902f8adb2694f5b88ce70d827922d92c73eed"
   },
   "compilationOptions": {},
   "targets": {
@@ -10,6 +10,8 @@
       "Generator/1.0.0": {
         "dependencies": {
           "FSharp.Core": "4.2.3",
+          "MathNet.Numerics": "3.20.0",
+          "MathNet.Numerics.FSharp": "3.20.0",
           "NETStandard.Library": "2.0.0"
         },
         "runtime": {
@@ -44,6 +46,20 @@
         },
         "runtime": {
           "lib/netstandard1.6/FSharp.Core.dll": {}
+        }
+      },
+      "MathNet.Numerics/3.20.0": {
+        "runtime": {
+          "lib/net40/MathNet.Numerics.dll": {}
+        }
+      },
+      "MathNet.Numerics.FSharp/3.20.0": {
+        "dependencies": {
+          "FSharp.Core": "4.2.3",
+          "MathNet.Numerics": "3.20.0"
+        },
+        "runtime": {
+          "lib/net40/MathNet.Numerics.FSharp.dll": {}
         }
       },
       "Microsoft.NETCore.Platforms/1.1.0": {},
@@ -653,6 +669,20 @@
       "sha512": "sha512-PthzJd0cY9L7+mPHoMB0B9Z9moR4oO1rU5RDrVW44cfMm0R9AYFf+F3BsuTvP9clr9w/Wa0wbSfEwbJV8sV80A==",
       "path": "fsharp.core/4.2.3",
       "hashPath": "fsharp.core.4.2.3.nupkg.sha512"
+    },
+    "MathNet.Numerics/3.20.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yH7wtvJEL/f7Y4v3EYzqU5taLnuhN7BTYNX0g+NCsQI9DQlTVjabMybS+Pvxqi5TgDDKu+xtT6vqzmtFHIzGyw==",
+      "path": "mathnet.numerics/3.20.0",
+      "hashPath": "mathnet.numerics.3.20.0.nupkg.sha512"
+    },
+    "MathNet.Numerics.FSharp/3.20.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YIMGDWTCwZV8DOlfmMTuriJmTURlc0BuReQ1pc/3Gmvpw/pOsL15sD9uPwkMNs8A0ufatn00qEJu7VWfhgsd/g==",
+      "path": "mathnet.numerics.fsharp/3.20.0",
+      "hashPath": "mathnet.numerics.fsharp.3.20.0.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",

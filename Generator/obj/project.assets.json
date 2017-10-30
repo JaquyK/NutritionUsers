@@ -36,6 +36,28 @@
           "lib/netstandard1.6/FSharp.Core.dll": {}
         }
       },
+      "MathNet.Numerics/3.20.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/MathNet.Numerics.dll": {}
+        },
+        "runtime": {
+          "lib/net40/MathNet.Numerics.dll": {}
+        }
+      },
+      "MathNet.Numerics.FSharp/3.20.0": {
+        "type": "package",
+        "dependencies": {
+          "FSharp.Core": "3.1.2.5",
+          "MathNet.Numerics": "[3.20.0]"
+        },
+        "compile": {
+          "lib/net40/MathNet.Numerics.FSharp.dll": {}
+        },
+        "runtime": {
+          "lib/net40/MathNet.Numerics.FSharp.dll": {}
+        }
+      },
       "Microsoft.NETCore.Platforms/1.1.0": {
         "type": "package",
         "compile": {
@@ -976,6 +998,50 @@
         "lib/netstandard1.6/FSharp.Core.optdata",
         "lib/netstandard1.6/FSharp.Core.sigdata",
         "lib/netstandard1.6/FSharp.Core.xml"
+      ]
+    },
+    "MathNet.Numerics/3.20.0": {
+      "sha512": "yH7wtvJEL/f7Y4v3EYzqU5taLnuhN7BTYNX0g+NCsQI9DQlTVjabMybS+Pvxqi5TgDDKu+xtT6vqzmtFHIzGyw==",
+      "type": "package",
+      "path": "mathnet.numerics/3.20.0",
+      "files": [
+        "lib/net35/MathNet.Numerics.dll",
+        "lib/net35/MathNet.Numerics.xml",
+        "lib/net40/MathNet.Numerics.dll",
+        "lib/net40/MathNet.Numerics.xml",
+        "lib/portable-net4+sl5+netcore45+wpa81+wp8+MonoAndroid1+MonoTouch1/MathNet.Numerics.XML",
+        "lib/portable-net4+sl5+netcore45+wpa81+wp8+MonoAndroid1+MonoTouch1/MathNet.Numerics.dll",
+        "lib/portable-net45+netcore45+MonoAndroid1+MonoTouch1/MathNet.Numerics.XML",
+        "lib/portable-net45+netcore45+MonoAndroid1+MonoTouch1/MathNet.Numerics.dll",
+        "lib/portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1/MathNet.Numerics.XML",
+        "lib/portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1/MathNet.Numerics.dll",
+        "lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid1+MonoTouch1/MathNet.Numerics.XML",
+        "lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid1+MonoTouch1/MathNet.Numerics.dll",
+        "lib/portable-net45+sl5+netcore45+MonoAndroid1+MonoTouch1/MathNet.Numerics.XML",
+        "lib/portable-net45+sl5+netcore45+MonoAndroid1+MonoTouch1/MathNet.Numerics.dll",
+        "license.txt",
+        "mathnet.numerics.3.20.0.nupkg.sha512",
+        "mathnet.numerics.nuspec",
+        "readme.txt"
+      ]
+    },
+    "MathNet.Numerics.FSharp/3.20.0": {
+      "sha512": "YIMGDWTCwZV8DOlfmMTuriJmTURlc0BuReQ1pc/3Gmvpw/pOsL15sD9uPwkMNs8A0ufatn00qEJu7VWfhgsd/g==",
+      "type": "package",
+      "path": "mathnet.numerics.fsharp/3.20.0",
+      "files": [
+        "MathNet.Numerics.IfSharp.fsx",
+        "MathNet.Numerics.fsx",
+        "lib/net35/MathNet.Numerics.FSharp.dll",
+        "lib/net35/MathNet.Numerics.FSharp.xml",
+        "lib/net40/MathNet.Numerics.FSharp.dll",
+        "lib/net40/MathNet.Numerics.FSharp.xml",
+        "lib/portable-net45+sl5+netcore45+MonoAndroid1+MonoTouch1/MathNet.Numerics.FSharp.XML",
+        "lib/portable-net45+sl5+netcore45+MonoAndroid1+MonoTouch1/MathNet.Numerics.FSharp.dll",
+        "license.txt",
+        "mathnet.numerics.fsharp.3.20.0.nupkg.sha512",
+        "mathnet.numerics.fsharp.nuspec",
+        "readme.txt"
       ]
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
@@ -3843,6 +3909,8 @@
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "FSharp.Core >= 4.2.*",
+      "MathNet.Numerics >= 3.20.0",
+      "MathNet.Numerics.FSharp >= 3.20.0",
       "NETStandard.Library >= 2.0.0"
     ]
   },
@@ -3888,6 +3956,14 @@
             "version": "2.0.0",
             "autoReferenced": true
           },
+          "MathNet.Numerics": {
+            "target": "Package",
+            "version": "3.20.0"
+          },
+          "MathNet.Numerics.FSharp": {
+            "target": "Package",
+            "version": "3.20.0"
+          },
           "FSharp.Core": {
             "target": "Package",
             "version": "4.2.*"
@@ -3900,5 +3976,27 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MathNet.Numerics 3.20.0' was restored using '.NETFramework,Version=v4.6.1' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "MathNet.Numerics",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MathNet.Numerics.FSharp 3.20.0' was restored using '.NETFramework,Version=v4.6.1' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "MathNet.Numerics.FSharp",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
 }

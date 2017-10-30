@@ -644,7 +644,9 @@
       },
       "Generator/1.0.0": {
         "dependencies": {
-          "FSharp.Core": "4.2.3"
+          "FSharp.Core": "4.2.3",
+          "MathNet.Numerics": "3.20.0",
+          "MathNet.Numerics.FSharp": "3.20.0"
         },
         "runtime": {
           "Generator.dll": {}
