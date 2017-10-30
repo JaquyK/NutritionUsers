@@ -1,0 +1,6 @@
+C:\Users\Jaqueline Kwiasowski\Desktop\F# playground\NutritionUsers\Generator\bin\Debug\netstandard2.0\Generator.deps.json
+C:\Users\Jaqueline Kwiasowski\Desktop\F# playground\NutritionUsers\Generator\bin\Debug\netstandard2.0\Generator.dll
+C:\Users\Jaqueline Kwiasowski\Desktop\F# playground\NutritionUsers\Generator\bin\Debug\netstandard2.0\Generator.pdb
+C:\Users\Jaqueline Kwiasowski\Desktop\F# playground\NutritionUsers\Generator\obj\Debug\netstandard2.0\Generator.fsproj.CoreCompileInputs.cache
+C:\Users\Jaqueline Kwiasowski\Desktop\F# playground\NutritionUsers\Generator\obj\Debug\netstandard2.0\Generator.dll
+C:\Users\Jaqueline Kwiasowski\Desktop\F# playground\NutritionUsers\Generator\obj\Debug\netstandard2.0\Generator.pdb

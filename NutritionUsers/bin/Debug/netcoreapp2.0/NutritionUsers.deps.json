@@ -9,6 +9,7 @@
       "NutritionUsers/1.0.0": {
         "dependencies": {
           "FSharp.Core": "4.2.3",
+          "Generator": "1.0.0",
           "MathNet.Numerics": "3.20.0",
           "MathNet.Numerics.FSharp": "3.20.0"
         },
@@ -640,6 +641,14 @@
           "Microsoft.NETCore.Targets": "1.0.1",
           "System.Runtime": "4.1.0"
         }
+      },
+      "Generator/1.0.0": {
+        "dependencies": {
+          "FSharp.Core": "4.2.3"
+        },
+        "runtime": {
+          "Generator.dll": {}
+        }
       }
     }
   },
@@ -1040,6 +1049,11 @@
       "sha512": "sha512-saGfUV8uqVW6LeURiqxcGhZ24PzuRNaUBtbhVeuUAvky1naH395A/1nY0P2bWvrw/BreRtIB/EzTDkGBpqCwEw==",
       "path": "system.threading.timer/4.0.1",
       "hashPath": "system.threading.timer.4.0.1.nupkg.sha512"
+    },
+    "Generator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

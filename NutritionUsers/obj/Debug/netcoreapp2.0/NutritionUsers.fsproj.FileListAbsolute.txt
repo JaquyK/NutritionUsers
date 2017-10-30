@@ -1,0 +1,26 @@
+C:\Users\Jaqueline Kwiasowski\Desktop\test\Euler\NutritionUsers\bin\Debug\netcoreapp2.0\NutritionUsers.deps.json
+C:\Users\Jaqueline Kwiasowski\Desktop\test\Euler\NutritionUsers\bin\Debug\netcoreapp2.0\NutritionUsers.runtimeconfig.json
+C:\Users\Jaqueline Kwiasowski\Desktop\test\Euler\NutritionUsers\bin\Debug\netcoreapp2.0\NutritionUsers.runtimeconfig.dev.json
+C:\Users\Jaqueline Kwiasowski\Desktop\test\Euler\NutritionUsers\bin\Debug\netcoreapp2.0\NutritionUsers.dll
+C:\Users\Jaqueline Kwiasowski\Desktop\test\Euler\NutritionUsers\bin\Debug\netcoreapp2.0\NutritionUsers.pdb
+C:\Users\Jaqueline Kwiasowski\Desktop\test\Euler\NutritionUsers\obj\Debug\netcoreapp2.0\NutritionUsers.fsproj.CoreCompileInputs.cache
+C:\Users\Jaqueline Kwiasowski\Desktop\test\Euler\NutritionUsers\obj\Debug\netcoreapp2.0\NutritionUsers.dll
+C:\Users\Jaqueline Kwiasowski\Desktop\test\Euler\NutritionUsers\obj\Debug\netcoreapp2.0\NutritionUsers.pdb
+C:\Users\Jaqueline Kwiasowski\Desktop\F# playground\NutritionUsers\bin\Debug\netcoreapp2.0\NutritionUsers.deps.json
+C:\Users\Jaqueline Kwiasowski\Desktop\F# playground\NutritionUsers\bin\Debug\netcoreapp2.0\NutritionUsers.runtimeconfig.json
+C:\Users\Jaqueline Kwiasowski\Desktop\F# playground\NutritionUsers\bin\Debug\netcoreapp2.0\NutritionUsers.runtimeconfig.dev.json
+C:\Users\Jaqueline Kwiasowski\Desktop\F# playground\NutritionUsers\bin\Debug\netcoreapp2.0\NutritionUsers.dll
+C:\Users\Jaqueline Kwiasowski\Desktop\F# playground\NutritionUsers\bin\Debug\netcoreapp2.0\NutritionUsers.pdb
+C:\Users\Jaqueline Kwiasowski\Desktop\F# playground\NutritionUsers\obj\Debug\netcoreapp2.0\NutritionUsers.fsproj.CoreCompileInputs.cache
+C:\Users\Jaqueline Kwiasowski\Desktop\F# playground\NutritionUsers\obj\Debug\netcoreapp2.0\NutritionUsers.dll
+C:\Users\Jaqueline Kwiasowski\Desktop\F# playground\NutritionUsers\obj\Debug\netcoreapp2.0\NutritionUsers.pdb
+C:\Users\Jaqueline Kwiasowski\Desktop\F# playground\NutritionUsers\NutritionUsers\bin\Debug\netcoreapp2.0\NutritionUsers.deps.json
+C:\Users\Jaqueline Kwiasowski\Desktop\F# playground\NutritionUsers\NutritionUsers\bin\Debug\netcoreapp2.0\NutritionUsers.runtimeconfig.json
+C:\Users\Jaqueline Kwiasowski\Desktop\F# playground\NutritionUsers\NutritionUsers\bin\Debug\netcoreapp2.0\NutritionUsers.runtimeconfig.dev.json
+C:\Users\Jaqueline Kwiasowski\Desktop\F# playground\NutritionUsers\NutritionUsers\bin\Debug\netcoreapp2.0\NutritionUsers.dll
+C:\Users\Jaqueline Kwiasowski\Desktop\F# playground\NutritionUsers\NutritionUsers\bin\Debug\netcoreapp2.0\NutritionUsers.pdb
+C:\Users\Jaqueline Kwiasowski\Desktop\F# playground\NutritionUsers\NutritionUsers\bin\Debug\netcoreapp2.0\Generator.dll
+C:\Users\Jaqueline Kwiasowski\Desktop\F# playground\NutritionUsers\NutritionUsers\bin\Debug\netcoreapp2.0\Generator.pdb
+C:\Users\Jaqueline Kwiasowski\Desktop\F# playground\NutritionUsers\NutritionUsers\obj\Debug\netcoreapp2.0\NutritionUsers.fsproj.CoreCompileInputs.cache
+C:\Users\Jaqueline Kwiasowski\Desktop\F# playground\NutritionUsers\NutritionUsers\obj\Debug\netcoreapp2.0\NutritionUsers.dll
+C:\Users\Jaqueline Kwiasowski\Desktop\F# playground\NutritionUsers\NutritionUsers\obj\Debug\netcoreapp2.0\NutritionUsers.pdb
