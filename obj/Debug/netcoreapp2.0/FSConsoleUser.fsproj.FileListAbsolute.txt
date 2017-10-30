@@ -1,0 +1,8 @@
+C:\Users\Jaqueline Kwiasowski\Desktop\test\Euler\FSConsoleUser\bin\Debug\netcoreapp2.0\FSConsoleUser.deps.json
+C:\Users\Jaqueline Kwiasowski\Desktop\test\Euler\FSConsoleUser\bin\Debug\netcoreapp2.0\FSConsoleUser.runtimeconfig.json
+C:\Users\Jaqueline Kwiasowski\Desktop\test\Euler\FSConsoleUser\bin\Debug\netcoreapp2.0\FSConsoleUser.runtimeconfig.dev.json
+C:\Users\Jaqueline Kwiasowski\Desktop\test\Euler\FSConsoleUser\bin\Debug\netcoreapp2.0\FSConsoleUser.dll
+C:\Users\Jaqueline Kwiasowski\Desktop\test\Euler\FSConsoleUser\bin\Debug\netcoreapp2.0\FSConsoleUser.pdb
+C:\Users\Jaqueline Kwiasowski\Desktop\test\Euler\FSConsoleUser\obj\Debug\netcoreapp2.0\FSConsoleUser.fsproj.CoreCompileInputs.cache
+C:\Users\Jaqueline Kwiasowski\Desktop\test\Euler\FSConsoleUser\obj\Debug\netcoreapp2.0\FSConsoleUser.dll
+C:\Users\Jaqueline Kwiasowski\Desktop\test\Euler\FSConsoleUser\obj\Debug\netcoreapp2.0\FSConsoleUser.pdb
